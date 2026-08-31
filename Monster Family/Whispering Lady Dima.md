@@ -1,1 +1,0 @@
-![[Whispering Lady Dima.png|Lady Dima]]

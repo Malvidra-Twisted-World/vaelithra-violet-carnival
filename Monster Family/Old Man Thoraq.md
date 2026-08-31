@@ -1,1 +1,0 @@
-![[Old Man Thoraq.png|Old Man Thoraq]]
