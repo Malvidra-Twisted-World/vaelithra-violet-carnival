@@ -77,7 +77,28 @@ Four unicorn pairs stand around the carousel, each bearing a partial nameplate a
 
 ***Sinner's Steeds.*** The plaque reads: *"I ride the same road forever, and call it a journey."* A small card attached to a music box on the saddle reads **Siklus** (Cycle). Forcing the music box open (**DC 13 Strength check**, or a successful **DC 12 Sleight of Hand** to work the catch without breaking it) reveals a second word engraved inside its gear mechanism: **Pengulangan** (Repetition).
 
-***Success.*** When all four pairs are named correctly, the carousel shudders to a halt and the violet dome dissolves. A masked figure's voice — child-like, distant — speaks once more through the unicorns' stilled mouths:
+***Success: The Central Pole Opens.*** When all four pairs are named correctly, the unicorns go perfectly still — but the violet dome **does not dissolve**. Instead, four thin lines of violet light race from the solved mounts toward the carousel's central pole.
+
+> [!info] Read Aloud
+> The carousel slows to a crawl.
+>
+> Four clicks answer one another from somewhere inside the central column.
+>
+> A seam appears in the gold-painted wood, and a hidden compartment unfolds. Resting inside is an old **Music Box**: silver-edged, violet-lacquered, and fitted with a keyhole shaped like a tiny ornate pendant.
+>
+> You try its winding mechanism.
+>
+> Nothing.
+>
+> The barrier above you flickers... then burns bright again.
+
+The Music Box cannot be forced open or activated by an ordinary key. Its mechanism is incomplete. A character examining it notices a tiny inscription beneath the keyhole:
+
+> *"What love remembers, despair cannot silence."*
+
+The party may take the **Locked Music Box** with them. The carousel's barrier parts only long enough to let them leave the attraction, then seals around the abandoned ride again; the carnival is allowing the game to continue, not admitting defeat.
+
+As the party steps away, a masked figure's voice — child-like, distant — speaks once more through the unicorns' stilled mouths:
 
 > *"Si Rakus berusaha mengulang pesta..."*
 > *(The Glutton tries to relive the feast...)*
@@ -85,9 +106,11 @@ Four unicorn pairs stand around the carousel, each bearing a partial nameplate a
 > *"Temukan angka yang rusak di Balap Siput."*
 > *(Find the broken number at the Snail Race.)*
 
+> ⚠️ **DM Note:** The Music Box is the carousel's true final lock. The **Key Pendant** recovered later from the Tunnel of Echoing Memories fits this box exactly. When the two are reunited, the box plays the melody shared by Sylvia and Juval, permanently extinguishing the carousel's violet barrier and revealing why that same melody can reach Juval in Part IV.
+
 ***Vision of Sylvia.*** As the message fades, every character present catches a brief, shared vision: a woman bound in a dark tent, chained to a stage, weeping silently. It's the same woman from the party's very first vision — proof, for anyone who doubted it, that she's real, and close.
 
-***Carousel Reward.*** Once the barrier falls, a small compartment opens beneath the central pole. Roll or choose from the table below (see *Appendix A: Magic Items* for full item descriptions):
+***Carousel Reward.*** Once the party later returns with the Key Pendant and plays the Music Box, the violet barrier collapses permanently and a second compartment opens beneath the central pole. Roll or choose from the table below (see *Appendix A: Magic Items* for full item descriptions):
 
 | d10 | Item |
 |---|---|
