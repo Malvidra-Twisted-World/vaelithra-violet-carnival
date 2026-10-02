@@ -44,7 +44,20 @@ As the boat drifts, the tunnel walls show four flickering scenes in turn — mem
 > [!info] Read Aloud
 > The boat slows at last, gliding up against a small stone dock. Nyonya Bisik's murmuring fades behind you, swallowed by the dark. Ahead, stairs lead up toward a curtain of beaded violet glass.
 
-***Success (3 or more fragments resolved).*** As the boat docks, a small object rises from the black water and settles gently in the lap of the nearest character: the **Key Pendant** (see *Appendix A: Magic Items*), a clue toward the Music Box heard elsewhere in the carnival.
+***Success (3 or more fragments resolved).*** As the boat docks, a small object rises from the black water and settles gently in the lap of the nearest character: the **Key Pendant** (see *Appendix A: Magic Items*). Its shape matches the keyhole on the Locked Music Box recovered from the carousel exactly.
+
+If the party inserts the pendant into the Music Box, the key turns by itself.
+
+> [!info] Read Aloud
+> The mechanism catches.
+>
+> One note rings out. Then another.
+>
+> The melody is simple and strangely intimate — not carnival music at all, but the kind of tune two people might have carried between them for years. As it plays, the tunnel walls briefly show **Sylvia and the Dalang**, younger and smiling, swaying together beneath lantern-light before the memory fades.
+>
+> Far behind you, somewhere across the carnival, something made of violet light shatters.
+
+The melody is a memory shared by **Sylvia and Juval**. Activating the Music Box permanently extinguishes the carousel's barrier. The Key Pendant retains the melody afterward: its bearer can still hear the tune faintly while holding it, allowing the party to reproduce it when they confront Juval at the Final Gate in Part IV.
 
 ***Failure (2 or fewer resolved).*** The boat still docks safely, but nothing rises from the water — only a smooth, ordinary pebble, worth nothing. The party isn't blocked from continuing, only left without the pendant's clue.
 
