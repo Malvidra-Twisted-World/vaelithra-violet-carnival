@@ -30,7 +30,9 @@ This appendix contains every magic item featured in *Vaelithra III: Violet Carni
 > ___
 >
 > ### Effect
-> A bearer who succeeds on a **DC 12 Wisdom (Insight)** check while holding the pendant and concentrating can recall its melody well enough to hum or play it. This melody is the key to the Music Box puzzle at the heart of the Violet Carnival, and playing it correctly for **Juval** at the Dalang's Final Gate (*Part IV: Into the Big Top*) grants advantage on the party's next Persuasion attempt to reach him emotionally.
+> The pendant is the missing key to the **Locked Music Box** revealed inside the carousel's central pole after all four unicorn pairs are resolved. When inserted into the box, the mechanism plays a private melody once shared by **Sylvia and Juval**, briefly revealing a memory of the couple together and permanently extinguishing the carousel's violet barrier.
+>
+> After the Music Box has played, the pendant retains the melody as a faint magical resonance. A bearer who succeeds on a **DC 12 Wisdom (Insight)** check while holding it can recall the tune clearly enough to hum or reproduce it. Playing that remembered melody for **Juval** at the Dalang's Final Gate (*Part IV: Into the Big Top*) grants advantage on the party's next Persuasion attempt to reach him emotionally.
 
 > [!loot] Aegis Vaeil: Echo of Chronos
 > *Wondrous Item, Legendary (requires attunement)*
