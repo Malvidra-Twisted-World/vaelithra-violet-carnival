@@ -65,7 +65,7 @@ A cold, telepathic whisper touches every mind inside the dome:
 
 ***Running the Trap.*** Any character who tries to force their way past the dome — by touching it, attacking it, or attempting to leave the platform — takes **1d6 psychic damage** and hears the whisper repeat. The carousel keeps spinning throughout; a character can attempt a **DC 10 Dexterity (Acrobatics)** check to move safely between mounts, or a **DC 12 Strength (Athletics)** check to hold steady while examining one. Failure on either doesn't cause harm, just wasted effort — momentum, not violence, is the danger here.
 
-## The Four Unicorns
+## The Four Unicorn Pairs
 
 Four unicorn pairs stand around the carousel, each bearing a partial nameplate and a small riddle plaque. Speaking both correct names of a pair aloud (in any order) calms that pair and reveals a hidden token bearing one of the words.
 
@@ -75,7 +75,7 @@ Four unicorn pairs stand around the carousel, each bearing a partial nameplate a
 
 ***Frozen Weepers.*** The plaque reads: *"I wear a smile that never once knew tears."* A silk handkerchief tucked into the saddle bears the embroidered word **Keriangan** (Joy). Warming the handkerchief near a heat source (a candle, a torch, the spell *control flame*, or similar) reveals a second word beneath, written in ice-crystal frost: **Kepedihan** (Sorrow).
 
-***Sinner's Steeds.*** The plaque reads: *"I ride the same road forever, and call it a journey."* A small card attached to a music box on the saddle reads **Siklus** (Cycle). Forcing the music box open (**DC 13 Strength check**, or a successful **DC 12 Sleight of Hand** to work the catch without breaking it) reveals a second word engraved inside its gear mechanism: **Pengulangan** (Repetition).
+***Sinner's Steeds.*** The plaque reads: *"I ride the same road forever, and call it a journey."* A palm-sized **clockwork gear** is fixed beneath the saddle. Turning its outer ring causes the inner mechanism to rotate through a complete revolution and click back into its starting position. Close inspection reveals two incomplete inscriptions on opposite rings; following the repeating path of their engraved lines allows the characters to reconstruct **Siklus** (Cycle) and **Pengulangan** (Repetition). A **DC 12 Intelligence (Investigation)** check reveals how the two rings repeat one another, but the players may solve the mechanism through description alone.
 
 ***Success: The Central Pole Opens.*** When all four pairs are named correctly, the unicorns go perfectly still — but the violet dome **does not dissolve**. Instead, four thin lines of violet light race from the solved mounts toward the carousel's central pole.
 
@@ -145,6 +145,11 @@ This is **Old Man Thoraq**, keeper of the Giant Snail Race. He grins, missing se
 | **Rocket** | Impatient and easily bored; strains against the reins the moment the race isn't moving fast enough. | Aggressive urging — shouting, kicking off, promising a reward for speed. |
 | **Sluggernaut** | Stubborn and food-motivated; will not be rushed, but will absolutely be bribed. | Offering (or pretending to offer) food, treats, or anything edible-looking. |
 | **Lendir Jahat** ("Wicked Slime") | Skittish and easily spooked; responds better to calm reassurance than commands. | Gentle, soothing encouragement — a soft voice, a steady hand, patience. |
+| **Mawar Lendir** ("Slime Rose") | Vain and theatrical; loves being admired and becomes dramatically offended when ignored. | Compliments, cheering, praise, or treating the race like a grand performance. |
+| **Komet** | Curious and distractible; constantly turns its eyestalks toward anything new or shiny. | Pointing out something interesting ahead, using a harmless shiny object as a lure, or turning the finish into something to investigate. |
+| **Mager** | Sleepy and profoundly unbothered; would rather nap than acknowledge that a race is happening. | Making the ride comfortable, rhythmic encouragement, music, or convincing it that the finish line is a better place to rest. |
+
+There are **six racing snails**, enough for a full six-character party to choose a different mount. If fewer characters enter, any unchosen snails remain at the starting line as sleepy spectators rather than NPC-controlled racers.
 
 A character can also ride bareback with no particular strategy and simply make a straightforward Animal Handling check — the personality match only ever helps, it's never required.
 
