@@ -157,24 +157,36 @@ A character can also ride bareback with no particular strategy and simply make a
 
 ## Running the Race
 
-The race lasts **5 rounds**. Each round, a racing character makes an **Animal Handling check (DC 15)** to urge their snail forward:
+The physical race track is **70 feet long**, divided into **14 spaces of 5 feet each**. All six snails use the same shared track and may occupy the same space. The race continues until at least one racing snail reaches or passes the finish line.
 
-- **Success:** the snail advances 5 inches along the track.
-- **Natural 20:** the snail advances 10 inches.
-- **Natural 1:** the snail slips back 5 inches.
-- **Failure (non-natural-1):** no movement.
+Each round, every racing character makes a **Wisdom (Animal Handling) check (DC 15)** to urge their snail forward:
 
-A character who takes a creative, personality-matched action toward their snail (see the snail's motivation, at the DM's discretion) gains **advantage** on that round's check and an extra 5 inches of movement on success.
+| Check Result | Movement |
+|---|---:|
+| Failure | **5 ft. (1 space)** |
+| Success, DC 15–19 | **10 ft. (2 spaces)** |
+| Success, DC 20+ | **15 ft. (3 spaces)** |
+| Natural 20 | **20 ft. (4 spaces)** |
+| Natural 1 | **Back 5 ft. (1 space)** |
 
-***Visions During the Race.*** At the end of each round, regardless of success or failure, every racing character shares a brief, silent vision tied to that round's distance:
+A natural 20 uses the 20-foot result regardless of the final total. A natural 1 always moves the snail backward 5 feet; a snail at the starting line cannot move farther back than the start.
 
-- **Round 1 (5 in.) — the number 10.** A vision of the carnival's early glory: ledgers and coin-counts written in violet "blood," numbers climbing without end. This is Belgruth's promise of endless wealth — the seed of Juval's downfall.
-- **Round 2 (10 in.) — the number 2.** A vision of Juval hiding, weeping, two newly-made **Gluttonettes** standing silent guard beside him. This is the moment he accepted the demon's help.
-- **Round 3 (15 in.) — the number 3.** A vision of Sylvia being dragged toward a stage. Before she vanishes into darkness, she holds up three fingers. This is a hint that three attractions — the Carousel, this race, and what waits ahead — together hold the truth.
-- **Round 4 (20 in.) — the number 0.** A vision of Belgruth in human form, holding four empty silver plates. A voice murmurs: *"Yang tersisa hanyalah kosong." (What remains is empty.)* This is the shape of total consumption — zero souls left behind.
-- **Round 5 (25 in.) — the finish.** A vision of the track itself, unshrunk and empty, four numbered starting slots along its edge — and one snail missing from the fifth.
+***Know Your Snail.*** A character who takes an action that meaningfully matches their snail's personality (see the snail table above) gains **advantage** on that round's Animal Handling check. This should be described in-character rather than simply declared as a mechanical bonus.
 
-***Ending the Race.*** After round 5, the liquid's effect fades and every character returns to full size, whichever snail is "ahead" being purely cosmetic — the vision sequence matters far more than who wins.
+***Creative Boost.*** If the rider goes beyond the obvious approach and comes up with a particularly fitting, entertaining, or committed way to motivate their snail, the DM may award an additional **5 feet (1 space)** of movement after resolving the check. This bonus is intentionally discretionary; it rewards engaging with the snail rather than fishing for a specific mechanical phrase.
+
+***Ties and Occupied Spaces.*** Multiple snails can share a space. If two or more snails cross the finish line in the same round, the snail that travelled farthest beyond the finish wins. If they are still tied, those tied riders make one final Animal Handling check; highest result wins.
+
+***Visions During the Race.*** The visions are tied to the **round**, not to a snail's position. At the end of each of the first four rounds, every racing character receives the same brief, silent vision, regardless of how far their snail moved:
+
+- **Round 1 — the number 10.** A vision of the carnival's early glory: ledgers and coin-counts written in violet "blood," numbers climbing without end. This is Belgruth's promise of endless wealth — the seed of Juval's downfall.
+- **Round 2 — the number 2.** A vision of Juval hiding, weeping, two newly-made **Gluttonettes** standing silent guard beside him. This is the moment he accepted the demon's help.
+- **Round 3 — the number 3.** A vision of Sylvia being dragged toward a stage. Before she vanishes into darkness, she holds up three fingers. This hints that the carnival's attractions together hold the truth.
+- **Round 4 — the number 0.** A vision of Belgruth in human form, holding four empty silver plates. A voice murmurs: *"Yang tersisa hanyalah kosong." (What remains is empty.)* This is the shape of total consumption — zero souls left behind.
+
+If the race somehow ends before all four visions have occurred, the track refuses to release the riders immediately. Violet lanterns flare one by one and deliver any remaining visions in sequence before the shrinking effect ends. This ensures the Score Board clue can never be lost because somebody's snail was exceptionally fast.
+
+***Ending the Race.*** Once a winner is determined and all four visions have been delivered, the purple liquid's effect fades and every character returns to full size. The winning rider receives the **Faded Keepsake** — a dull glass marble bearing a faint symbol from the Archive of Vaeil (see *Appendix A: Magic Items*).
 
 ## The Score Board
 
@@ -188,8 +200,6 @@ Beside the finish line stands a wooden **Score Board** with four empty slots, ea
 > Across its surface, in curling script, are the words:
 >
 > *"The card always lies, but the pattern never does."*
-
-***Snail Race Reward.*** Whichever character's snail crossed the line first receives the **Faded Keepsake** — a dull glass marble bearing a faint symbol from the Archive of Vaeil (see *Appendix A: Magic Items*).
 
 ## Ending the Chapter
 
