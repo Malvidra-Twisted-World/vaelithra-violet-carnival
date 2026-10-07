@@ -59,19 +59,14 @@ This is the adventure's core mystery hook.
 > Afraid...
 >
 > But full of hope.
-
-She whispers, barely audible:
-
+> She whispers, barely audible:
 > *"Juval... please..."*
 > *"Whoever you are..."*
 > *"Find me..."*
-
-From within the shadows behind her, two enormous hands emerge — thick, maroon-skinned, black claws gleaming — and slowly reach for her.
-
+> From within the shadows behind her, two enormous hands emerge — thick, maroon-skinned, black claws gleaming — and slowly reach for her.
 > *"Smile..."*
 > *(a foreign whisper echoes)*
-
-The vision shatters like glass.
+> The vision shatters like glass.
 
 ## The Portal Opens
 
