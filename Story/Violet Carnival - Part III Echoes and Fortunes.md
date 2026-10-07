@@ -6,7 +6,7 @@ Beyond the hidden door, the party finds a boat ride through memory itself — an
 
 ## The Tunnel of Echoing Memories
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The hidden door opens onto a narrow dock, where a single wooden boat waits on still, black water. No oars. No rudder. A lantern at its prow burns with a low violet flame, and somewhere ahead, in the dark, something hums an old, half-remembered tune.
 
 Entering the tunnel costs **1 bite** per party (not per character). Once the party boards, the boat departs on its own, gliding forward at a pace no one aboard can control.
@@ -41,14 +41,14 @@ As the boat drifts, the tunnel walls show four flickering scenes in turn — mem
 
 ## Ending the Tunnel
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The boat slows at last, gliding up against a small stone dock. Nyonya Bisik's murmuring fades behind you, swallowed by the dark. Ahead, stairs lead up toward a curtain of beaded violet glass.
 
 ***Success (3 or more fragments resolved).*** As the boat docks, a small object rises from the black water and settles gently in the lap of the nearest character: the **Key Pendant** (see *Appendix A: Magic Items*). Its shape matches the keyhole on the Locked Music Box recovered from the carousel exactly.
 
 If the party inserts the pendant into the Music Box, the key turns by itself.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The mechanism catches.
 >
 > One note rings out. Then another.
@@ -65,7 +65,7 @@ The melody is a memory shared by **Sylvia and Juval**. Activating the Music Box 
 
 Beyond the beaded curtain, the party finds a tent unlike any other in the carnival.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Purple velvet drapes hang from every corner, catching candlelight in slow, shifting folds. Lanterns shaped like crescent moons and five-pointed stars sway gently from the ceiling, and the air is thick with the scent of old incense. At the center, a round table waits, scattered with tarot cards — some face up, some down, as if a reading was interrupted mid-thought.
 
 **Varquin** is here, seated behind the table, her painted clown's smile calm and unreadable.
@@ -80,7 +80,7 @@ Beyond the beaded curtain, the party finds a tent unlike any other in the carniv
 
 Scattered across the table are the full deck's Major Arcana, all face-down but three: those three cards feel unnaturally cold to the touch, and glow faintly violet when looked at directly.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Three cards catch your eye immediately, each colder than the felt beneath them.
 >
 > The first shows a robed figure enthroned between two pillars, his crown inverted — **The Hierophant, Reversed.**
@@ -91,7 +91,7 @@ Scattered across the table are the full deck's Major Arcana, all face-down but t
 
 Tucked half-beneath the table's velvet cloth is an open **journal**, its handwriting hurried and shaking — written, unmistakably, in Varquin's own hand, from some time before now.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > *"The pattern is the secret. Authority must stand in the Middle. Hope must follow the Serpent. And the Serpent must stand where the Pact began."*
 
 ***Solving the Pattern.*** The journal's riddle maps directly onto the three cards, though it never names them outright:
@@ -104,7 +104,7 @@ A character may reach this conclusion through roleplay and deduction alone, or b
 
 ***Placing the Cards.*** Arranging the three cards in order — **The Devil, then The Hierophant Reversed, then The Star** — causes the table itself to respond.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The candle flames snap upright, burning violet. Varquin's voice — and beneath it, another voice, older and stranger, speaking in perfect unison with her — fills the tent:
 >
 > *"The pattern is correct. Ten, two, three, zero is the order of ruin — but three is the key. Three attractions. Three lies."*

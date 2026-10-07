@@ -6,7 +6,7 @@ Deeper into the Violet Carnival, the party meets two of its keepers face to face
 
 ## The Carnival Grounds
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The path opens into a wide fairground, far larger than it looked from the gate. Rows of game booths and smaller tents stretch out in every direction — most of them dark, canvas torn, poles snapped, games long since abandoned to dust and violet mist. Only a handful of lights still burn among the ruin.
 
 ***Running the Grounds.*** The Violet Carnival was once much bigger than what the party can actually use. Feel free to describe collapsed ring-toss booths, a dead Ferris wheel, a fortune-scale with a cracked dial — whatever dresses the scene — but only four attractions in the whole carnival are still functional: the **Carousel**, the **Giant Snail Race**, the **Tunnel of Echoing Memories**, and **Varquin's Tarot Tent**. This is intentional, not a gap to cover for. If the party heads straight for the carousel and snail race without poking through the ruined booths first, nothing is lost — the puzzle chain is meant to be followed in roughly that order regardless of how much of the dead fairground they stop to look at along the way. Don't feel obligated to steer them toward exploration they haven't asked for.
@@ -15,7 +15,7 @@ Deeper into the Violet Carnival, the party meets two of its keepers face to face
 
 ## Approaching the Carousel
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Ahead, a great carousel turns slowly under strings of violet lantern-light. Its mounts aren't horses, but unicorns carved in aged wood — cracked paint, chipped horns, glass eyes that seem to follow you. The melody drifting from it is sweet, familiar... and just slightly out of tune.
 >
 > Beside the carousel stands a small ticket booth, its counter empty. A hand-lettered sign reads: *"Miss Lilith — back in a moment~"*
@@ -48,7 +48,7 @@ She and Juval withdraw into the crowd, the same way Varquin vanished at the oute
 
 When the party approaches the empty booth and inserts their tickets (spending **1 bite** to activate the ride), the carousel responds.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The carousel shudders to life on its own. Violet light floods its central pole, and for one instant, a small **masked figure** — child-sized, faceless — appears atop it, points toward one of the unicorns, and vanishes.
 >
 > Then the ride screams.
@@ -79,7 +79,7 @@ Four unicorn pairs stand around the carousel, each bearing a partial nameplate a
 
 ***Success: The Central Pole Opens.*** When all four pairs are named correctly, the unicorns go perfectly still — but the violet dome **does not dissolve**. Instead, four thin lines of violet light race from the solved mounts toward the carousel's central pole.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The carousel slows to a crawl.
 >
 > Four clicks answer one another from somewhere inside the central column.
@@ -129,7 +129,7 @@ As the party steps away, a masked figure's voice — child-like, distant — spe
 
 Following the unicorns' message, the party finds the Giant Snail Race a short walk from the carousel.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > A wide dirt track curves ahead, lined with cheering violet lanterns shaped like tiny faces. At the starting line waits an old man on one leg, leaning on a crutch fashioned from a snail's shell. Behind him, three enormous snails wait patiently, their shells gleaming with faint runes.
 
 This is **Old Man Thoraq**, keeper of the Giant Snail Race. He grins, missing several teeth, and gestures grandly at his snails.
@@ -194,7 +194,7 @@ Beside the finish line stands a wooden **Score Board** with four empty slots, ea
 
 ***Solving the Board.*** The correct sequence, drawn directly from the race's visions, is **10, 2, 3, 0**. Entering any other order does nothing — no penalty, no lockout, just silence. A character who succeeds on a **DC 13 Intelligence (Investigation)** check while examining the visions afterward recalls the order of the numbers even without perfect memory of the visions themselves.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The moment the final tile clicks into place, the lanterns along the track flash red, then green. A heavy click sounds beneath your feet. Slowly, the wooden track itself rotates a full half-turn, revealing a hidden door carved with the imagery of tarot cards.
 >
 > Across its surface, in curling script, are the words:

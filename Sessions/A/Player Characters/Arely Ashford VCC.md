@@ -9,7 +9,7 @@ team_group: B
 ---
 # Arely Ashford
 
-![[D&D/Original Adventures/Vaelithra/3. Violet Carnival/Sessions/A/Player Characters/Assets/Arely Ashford.jpg|Arely Ashford]]
+![Arely Ashford](Assets/Arely%20Ashford.jpg)
 
 **Class**: Paladin
 **Subclass**: Oath of The Crown

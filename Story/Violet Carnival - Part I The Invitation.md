@@ -6,7 +6,7 @@ Wherever the characters are — a warm inn, a dusty road, the middle of an exhau
 
 ## The Violet Invitation
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Wherever you are — in a warm inn, on a dusty road, or in the middle of some tiring routine — time suddenly... slows.
 >
 > The sounds around you fade. Colors dim. As though the world itself is holding its breath.
@@ -31,7 +31,7 @@ Wherever the characters are — a warm inn, a dusty road, the middle of an exhau
 
 When the envelope opens, the ink inside moves on its own, the words seeming to rewrite themselves with every reading.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > *"With the deepest respect, the Violet Carnival invites you to the Night of Eternal Smiles."*
 >
 > The final letters shine bright violet — and the pulse of that light crawls straight into your eyes.
@@ -49,7 +49,7 @@ Each character makes a **DC 15 Wisdom saving throw**.
 
 This is the adventure's core mystery hook.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > You see a woman with dark brown hair. Her clothes are torn, her skin pale, and her body is bound by threads of violet that move like living roots.
 >
 > She's trapped inside a crystal cage of deep violet — its cracks forming the pattern of a faceless mask.
@@ -77,7 +77,7 @@ The vision shatters like glass.
 
 As the characters come to, the violet envelope is not finished with them.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The violet letter folds itself. The paper becomes a thin frame, violet light spinning within it.
 >
 > A gateway opens.
@@ -95,7 +95,7 @@ The portal pulls the characters through gently, without pain.
 
 ## Arrival at the Gate
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > You stand before a great iron gate reading:
 >
 > **VIOLET CARNIVAL**
@@ -110,7 +110,7 @@ In the distance, a **female clown** watches the party arrive, then withdraws int
 
 ## After the Vision: The Violet Ticket
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Awareness returns slowly.
 >
 > The sound of your own heartbeat fades, replaced by a faint waltz drifting from somewhere ahead.
@@ -125,7 +125,7 @@ Each character now holds a **Violet Carnival Ticket**. Every ticket looks identi
 
 ## The Gatekeeper Appears
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > A stifled giggle drifts through the air.
 >
 > *"Hee... hee... hee..."*
@@ -148,7 +148,7 @@ Mr. Smiley Hat extends an open hand.
 
 When a character hands theirs over —
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Without warning, he leans in close.
 >
 > His teeth press into the ticket — not like someone eating, but like something testing the quality of a living thing.
@@ -193,7 +193,7 @@ Then, in an almost soothing tone:
 
 ## Entering the Violet Carnival
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The moment you cross the gate, the world changes.
 >
 > The air turns warm, like an autumn afternoon.

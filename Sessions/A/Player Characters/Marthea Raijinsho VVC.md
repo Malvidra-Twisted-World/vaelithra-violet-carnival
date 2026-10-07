@@ -41,6 +41,6 @@ Amplop itu awalnya untuk Marnok, tapi atas rekomendasi Althea, Marthea yang memb
 
 --- column-break ---
 
-![[Marthea Raijinsho.png|Marthea Raijinsho]]
+![Marthea Raijinsho](Assets/Marthea%20Raijinsho.png)
 
 --- end-multi-column

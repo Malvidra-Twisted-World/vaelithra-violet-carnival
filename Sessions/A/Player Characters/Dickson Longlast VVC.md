@@ -24,7 +24,7 @@ someday while waking up in unamed brothels. left alone half naked. there was an 
 
 --- column-break ---
 
-![[Dickson Longlast.png|Dickson Longlast]]
+![Dickson Longlast](Assets/Dickson%20Longlast.png)
 
 --- end-multi-column
 

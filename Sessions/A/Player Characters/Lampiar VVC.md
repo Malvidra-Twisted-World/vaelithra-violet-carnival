@@ -18,7 +18,7 @@ Kalau backstory setelah menyelesaikan Quest dari Vaeilthra Lampiar melanjutkan a
 
 --- column-break ---
 
-![[Lampiar.png|Lampiar]]
+![Lampiar](Assets/Lampiar.png)
 
 --- end-multi-column
 

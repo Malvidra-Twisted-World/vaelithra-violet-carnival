@@ -7,4 +7,4 @@ alive: true
 team_group: C
 modifier: "3"
 ---
-![[Xenokamis.png|Xenokamis Darkbright]]
+![Xenokamis Darkbright](Assets/Xenokamis.png)

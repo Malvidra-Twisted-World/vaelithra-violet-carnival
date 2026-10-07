@@ -6,7 +6,7 @@ With Belgruth gone and Sylvia freed, the Violet Carnival breathes its last perfo
 
 ## Aftermath on the Stage
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The dying spotlight above the stage flickers once, then steadies into something softer, warmer. The violet smoke of Belgruth's death drifts upward and away, taking with it a weight you hadn't fully realized you'd been carrying.
 
 **Varquin** recovers — whether she was ever unconscious from her intervention or simply worn thin by the fight, she rises slowly, leaning on the ruined stage for support. For the first time since the party met her, her smile isn't a performance.
@@ -21,7 +21,7 @@ With Belgruth gone and Sylvia freed, the Violet Carnival breathes its last perfo
 
 Across the stage, **Juval** finally crosses the threshold he couldn't pass before — the binding that held him at the gate breaks the instant Belgruth falls. He crosses the ruined stage at a run.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Juval reaches Sylvia and drops to his knees beside her, gathering her into his arms as though afraid she might vanish if he lets go. She's weak, barely able to lift her head, but her hand finds his face, and she smiles — the first real smile this carnival has seen in a very long time.
 >
 > Neither of them says anything for a long moment. They don't need to.
@@ -48,7 +48,7 @@ Varquin doesn't explain further — not what she is, not why she was bound here,
 
 Before the carnival's sky finishes its slow shift toward dawn, Varquin presses something small into the hands of whichever character she feels closest to (or, if the DM prefers, the party's nominal leader).
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > She presses a necklace into your palm — a silver chain holding a pendant shaped like two things at once: a small, delicate mask, and an open book without pages. The silver catches the light strangely, flashing faint violet at the edges, as though something inside it is still watching.
 >
 > *"Aegis Vaeil: Echo of Chronos,"* she says. *"Keep it close. There's a bigger shadow than Belgruth out there — a broken thread in the tapestry of time. You'll understand, someday."*
@@ -57,7 +57,7 @@ See *Appendix A: Magic Items* for the full description of the **Aegis Vaeil: Ech
 
 ## The Carnival Fades
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > As the sky above the tent finishes its shift from violet to the pale gold of an ordinary dawn, the ground beneath your feet begins to blur, colors bleeding into one another like a painting left out in the rain. Varquin, Juval, and Sylvia grow faint, their voices swallowed by a rising wind.
 >
 > And then — silence. And your own world, rushing back in around you.
@@ -75,7 +75,7 @@ Each character makes a **DC 12 Wisdom saving throw**.
 
 ## Closing
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Wherever you find yourselves now, the world has resumed exactly as it was — no time lost, no one else the wiser. Only you know what happened. Only you carry what's left of it.
 >
 > Time has been disturbed — and it remembers who dared to step into its carnival.

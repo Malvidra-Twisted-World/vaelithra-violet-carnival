@@ -57,7 +57,7 @@ something was ready to be destroyed.
 
 --- column-break ---
 
-![[D&D/Original Adventures/Vaelithra/3. Violet Carnival/Sessions/A/Player Characters/Assets/Selyrhaine.png|Selyrhaine Nochtra]]
+![Selyrhaine Nochtra](Assets/Selyrhaine.png)
 
 --- end-multi-column
 

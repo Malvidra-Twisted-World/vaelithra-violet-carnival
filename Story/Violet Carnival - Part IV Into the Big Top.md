@@ -8,7 +8,7 @@ The party reaches the carnival's final barrier — a gate that answers to grief,
 
 Following the map revealed in Varquin's tent, the party arrives at a gate unlike anything else in the carnival: a wall of black, interwoven branches, twisted together so tightly that no seam or hinge is visible.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The gate rises before you, black branches knotted so densely that no light passes through. It doesn't creak. It doesn't groan. It simply waits — patient, and utterly still.
 >
 > Standing before it, unmoving, is a man you recognize: the hollow-eyed dalang from the carnival's gate. Up close, he looks worse. Paler. Thinner. As though something has been drawing the life out of him for a very long time.
@@ -37,7 +37,7 @@ Getting Juval — and by extension, the gate — to respond is less a lock to pi
 
 ***Success.*** The gate opens once Juval shows a genuine, positive emotional reaction — cued naturally by the DM once the party has combined an emotional approach (Words of Hope or the Keepsake) with the Pendant's melody, or achieved some equally meaningful combination through creative play.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The black branches shudder, then peel apart like fingers releasing a held breath. Beyond them: darkness, and the faint, distant sound of something vast, breathing.
 >
 > Juval doesn't move to follow. He stares through the opening, tears finally breaking free down his hollow face.
@@ -48,12 +48,12 @@ Getting Juval — and by extension, the gate — to respond is less a lock to pi
 
 ## Crossing the Threshold
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > The moment you step past the gate, the air changes — thick, cloying, and wrong. A wave of pressure rolls over you, pressing against your chest like a hand closing slowly around your heart.
 
 Each character makes a **DC 13 Constitution saving throw**, taking **1d6 psychic damage** on a failure and half as much on a success, as the demiplane's true nature — Belgruth's own domain — asserts itself over the party.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Beyond the pressure, a vast tent opens up around you — larger inside than anything you saw from outside. A single stage stands at its center, lit by a single dying spotlight.
 >
 > Chained to that stage, weak but breathing, is the woman from your very first vision.
@@ -92,7 +92,7 @@ Belgruth opens the fight in its glamored human form (see *Appendix B: Creatures*
 
 When Belgruth is reduced to **50% of its hit points** (85 or fewer), the fight pauses for a single, visceral beat.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Belgruth's human disguise splits down the center like tearing fabric. Beneath it: something vast, maroon-skinned, and utterly wrong, unfolding out of a shape too small to have ever contained it. Its "voice," when it finally speaks again, is no longer sweet.
 >
 > *"Fine then. Let's stop pretending~"*
@@ -105,7 +105,7 @@ Belgruth transforms into its true form — **Belgruth, The Ravenous Maw** — ca
 
 ***When to Use This.*** If two or more player characters are unconscious and the fight looks genuinely unsalvageable, don't let a single bad round end the story. Trigger this failsafe.
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > A crack splits the air. **Varquin** appears at the edge of the stage, no longer smiling. She presses the Masked Puppet's shattered mask to her chest, and violet light floods the tent.
 
 All unconscious player characters wake at **1 hit point**. All conscious player characters heal to their **maximum hit points**. Every player character regains **half their spent spell slots** (rounded up). Varquin herself becomes **Unconscious** and **Incapacitated** as her mask cracks further and loses its power — this rescue costs her something real, and she cannot repeat it.
@@ -114,7 +114,7 @@ All unconscious player characters wake at **1 hit point**. All conscious player 
 
 When Belgruth is finally reduced to 0 hit points:
 
-> [!info] Read Aloud
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Read Aloud
 > Belgruth doesn't fall so much as it comes apart — bursting in a wave of purple smoke and thick, rotten slime. The chains binding Sylvia crumble to dust in the same instant.
 >
 > She sags forward, weak, but breathing — and alive.

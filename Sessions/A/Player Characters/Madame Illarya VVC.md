@@ -18,7 +18,7 @@ Born with influence from other dimension Madame Illarya blessed with psionic pow
 
 --- column-break ---
 
-![[Madame Illarya.png|Madame Illarya]]
+![Madame Illarya](Assets/Madame%20Illarya.png)
 
 --- end-multi-column
 

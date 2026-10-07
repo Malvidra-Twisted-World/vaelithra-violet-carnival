@@ -2,7 +2,7 @@
 
 This appendix contains every magic item featured in *Vaelithra III: Violet Carnival*, from the ticket every character carries from the moment they arrive, to the campaign-hook artifact that closes the adventure.
 
-> [!loot] Violet Carnival Ticket
+> [!NOTE] <!--easygit-callout:original=loot,collapse=--> Violet Carnival Ticket
 > *Wondrous Item, Uncommon (no attunement required)*
 >
 > Every character receives one of these tickets in *Part I: The Invitation*, the moment their invitation letter transforms upon crossing into the carnival. Lilac-colored and pulsing with a faint inner light, it smells faintly of bubblegum and feels warm and elastic to the touch, more like candy than paper. Silver text shifts constantly across its surface, most often settling on the words *"Only those invited may enter."*
@@ -12,7 +12,7 @@ This appendix contains every magic item featured in *Vaelithra III: Violet Carni
 > ### Effect
 > The ticket cannot be traded, copied, magically duplicated, or destroyed by ordinary means. It carries **5 bite marks**, consumed by **Mr. Smiley Hat** one at a time as the party enters attractions throughout the carnival (see *Part I: The Invitation* for the full Bite System). Once drained, the ticket turns pale and cold, and grants no further automatic entry — though many of the carnival's attractions can still be reached through puzzles, hidden paths, or NPC favors instead.
 
-> [!loot] Faded Keepsake
+> [!NOTE] <!--easygit-callout:original=loot,collapse=--> Faded Keepsake
 > *Wondrous Item, Common (no attunement required)*
 >
 > Awarded to whichever character's snail crosses the finish line first during the Giant Snail Race in *Part II: Carousel and Snail Race*. A dull, unremarkable glass marble at first glance, bearing a faint, nearly-worn-away symbol matching the Archive of Vaeil.
@@ -22,7 +22,7 @@ This appendix contains every magic item featured in *Vaelithra III: Violet Carni
 > ### Effect
 > A character who studies the marble and succeeds on a **DC 15 Intelligence (Arcana or History)** check hears faint whisper-fragments trapped within it — disjointed impressions of Gluttonettes and a curse that fades memory, hinting at Belgruth's true nature well before the party confronts it directly. Presenting this item to **Varquin** during *Part III: Echoes and Fortunes* changes the shape of her tarot reading (see that chapter for details), giving her one further piece of guidance she wouldn't otherwise offer.
 
-> [!loot] Key Pendant
+> [!NOTE] <!--easygit-callout:original=loot,collapse=--> Key Pendant
 > *Wondrous Item, Common (no attunement required)*
 >
 > Rises from the black water of the Tunnel of Echoing Memories if the party resolves at least three of its four memory fragments in *Part III: Echoes and Fortunes*. A small silver pendant shaped like an ornate key, humming faintly with a melody only its bearer can hear clearly.
@@ -34,7 +34,7 @@ This appendix contains every magic item featured in *Vaelithra III: Violet Carni
 >
 > After the Music Box has played, the pendant retains the melody as a faint magical resonance. A bearer who succeeds on a **DC 12 Wisdom (Insight)** check while holding it can recall the tune clearly enough to hum or reproduce it. Playing that remembered melody for **Juval** at the Dalang's Final Gate (*Part IV: Into the Big Top*) grants advantage on the party's next Persuasion attempt to reach him emotionally.
 
-> [!loot] Aegis Vaeil: Echo of Chronos
+> [!NOTE] <!--easygit-callout:original=loot,collapse=--> Aegis Vaeil: Echo of Chronos
 > *Wondrous Item, Legendary (requires attunement)*
 >
 > Given by **Varquin** to the party in the adventure's final scene, *Part V: The Invitation to Smile, Fulfilled*, as the carnival fades around them. A silver necklace whose pendant merges two shapes into one — a small, delicate mask, and an open book without pages. Its silver surface catches light strangely, flashing faint violet at the edges, as though something within it is still watching.
