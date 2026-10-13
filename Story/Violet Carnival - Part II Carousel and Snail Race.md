@@ -112,18 +112,18 @@ As the party steps away, a masked figure's voice — child-like, distant — spe
 
 ***Carousel Reward.*** Once the party later returns with the Key Pendant and plays the Music Box, the violet barrier collapses permanently and a second compartment opens beneath the central pole. Roll or choose from the table below (see *Appendix A: Magic Items* for full item descriptions):
 
-| d10 | Item |
-|---|---|
-| 1 | Bubblegum-Scented Vial |
-| 2 | Cracked Mirror Shard |
-| 3 | Frostbitten Ribbon |
-| 4 | Wind-Up Key |
-| 5 | Painted Mask Fragment |
-| 6 | Violet Confetti Pouch |
-| 7 | Tiny Music Box |
-| 8 | Carnival Token (Blank) |
-| 9 | Faded Photograph |
-| 10 | Whisper-in-a-Bottle |
+| d10 | Item                   |
+| --- | ---------------------- |
+| 1   | Bubblegum-Scented Vial |
+| 2   | Cracked Mirror Shard   |
+| 3   | Frostbitten Ribbon     |
+| 4   | Wind-Up Key            |
+| 5   | Painted Mask Fragment  |
+| 6   | Violet Confetti Pouch  |
+| 7   | Tiny Music Box         |
+| 8   | Carnival Token (Blank) |
+| 9   | Faded Photograph       |
+| 10  | Whisper-in-a-Bottle    |
 
 ## The Snail Race
 
