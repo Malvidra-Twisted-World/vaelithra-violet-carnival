@@ -10,7 +10,7 @@ The carnival's true master, disguised for decades as "Bel," a generous investor.
 layout: Basic 5e Layout
 source: Vaelithra III - Violet Carnival
 name: Belgruth, The Grand Puppeteer
-size: Medium
+size: Large
 type: Fiend (Demon)
 alignment: Chaotic Evil
 cr: 8
@@ -73,7 +73,7 @@ Belgruth's true form, unleashed once its human disguise is stripped away. Larger
 layout: Basic 5e Layout
 source: Vaelithra III - Violet Carnival
 name: Belgruth, The Ravenous Maw
-size: Large
+size: Huge
 type: Fiend (Demon)
 alignment: Chaotic Evil
 cr: 10
